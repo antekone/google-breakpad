@@ -38,3 +38,10 @@
 *.pyc
 
 .svn
+.deps
+Makefile
+*.log
+*.status
+*.pc
+src/config.h
+src/stamp-*
